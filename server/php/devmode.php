@@ -1,5 +1,6 @@
 <?php
 require 'core/bootstrap.php';
+require 'devtest/route.php';
 
 require 'devtest/devgm.php';
 
