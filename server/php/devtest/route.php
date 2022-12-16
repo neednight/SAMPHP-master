@@ -1,6 +1,6 @@
 <?php
     $classesDir = array (
-        ROOT_DIR.'Callbacks/',
+        'Callbacks/'
     );
     function __autoload($class_name) {
         global $classesDir;
