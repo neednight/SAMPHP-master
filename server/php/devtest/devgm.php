@@ -21,10 +21,6 @@ Event::on('GameModeInit', function() {
 });
 
 Event::on('PlayerConnect', function($player) {
-	$player->gameText("~w~Grand Larceny", 3000, 4);
-	$player->sendClientMessage(COLOR_WHITE, "Welcome to Grand Larceny");
-
-	$player->citySelection = -1;
-	$player->hasCitySelected = false;
-	$player->lastCitySelectionTick = GetTickCount();
+	$player->gameText("~w~DevGM", 3000, 4);
+	$player->sendClientMessage(COLOR_WHITE, "devGM v0.1 PHP");
 });
