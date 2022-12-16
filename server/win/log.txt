@@ -78,3 +78,4 @@
 [08:00:35] [Info] ---------------------------------------
 
 [08:00:35] [Info] Legacy Network started on port 7777
+[08:07:05] [Info] Legacy Network started on port 7777
