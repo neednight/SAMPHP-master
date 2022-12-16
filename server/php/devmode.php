@@ -5,6 +5,7 @@ require 'devtest/route.php';
 define('COLOR_WHITE', '0xFFFFFFFF');
 define('COLOR_NORMAL_PLAYER', '0xFF4444FF');
 
+
 Event::on('GameModeInit', function() {
 	Server::setGameModeText("devGM v0.1 PHP");
 	Server::showPlayerMarkers();
