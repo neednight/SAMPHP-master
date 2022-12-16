@@ -14,7 +14,7 @@ Event::on('GameModeInit', function() {
 	Server::enableStuntBonus(false);
 	Server::disableInteriorEnterExits();
 	Server::setWeather(2);
-	
+
     Server::addPlayerClass(0, 1958.3783, 1343.1572, 15.3746, 269.1425, 0, 0, 0, 0, 0, 0);
 });
 
