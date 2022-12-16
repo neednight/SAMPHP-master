@@ -2,6 +2,7 @@
 require 'core/bootstrap.php';
 require 'devtest/autoload.php';
 
+\autoload\autoload(__DIR__.'\Settings');
 \autoload\autoload(__DIR__.'\Callbacks');
 \autoload\autoload(__DIR__.'\Structures');
 
