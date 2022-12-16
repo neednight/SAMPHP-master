@@ -79,3 +79,306 @@
 
 [08:00:35] [Info] Legacy Network started on port 7777
 [08:07:05] [Info] Legacy Network started on port 7777
+[10:09:52] [Info] Loading plugin: samphp
+[10:09:52] [Info] It works!
+[10:09:52] [Info] Now start creating your own gamemode, without complication!
+[10:09:52] [Info] Just edit the gamemode.php file in the php folder
+[10:09:52] [Info] Or create a new folder inside the php directory, create a gamemode.php file
+[10:09:52] [Info] And change the server.cfg, by adding a line called "samphpmode <gamemode name>
+[10:09:52] [Info] Legacy Network started on port 7777
+[10:10:37] [Info] Loading plugin: samphp
+[10:10:37] [Info] 
+Warning: include(php/gamemode/gamemode.php): failed to open stream: No such file or directory in php/gamemode/gamemode.php on line 1
+
+[10:10:37] [Info] 
+Warning: include(): Failed opening 'php/gamemode/gamemode.php' for inclusion (include_path='.;./php') in php/gamemode/gamemode.php on line 1
+
+[10:10:37] [Info] calling function OnGameModeInit
+
+[10:10:37] [Info] Legacy Network started on port 7777
+[10:11:08] [Info] Loading plugin: samphp
+[10:11:08] [Info] 
+Warning: include(php/gamemode/gamemode.php): failed to open stream: No such file or directory in php/gamemode/gamemode.php on line 1
+
+[10:11:08] [Info] 
+Warning: include(): Failed opening 'php/gamemode/gamemode.php' for inclusion (include_path='.;./php') in php/gamemode/gamemode.php on line 1
+
+[10:11:08] [Info] calling function OnGameModeInit
+
+[10:11:08] [Info] Legacy Network started on port 7777
+[10:11:59] [Info] Loading plugin: samphp
+[10:11:59] [Info] 
+Warning: include(php/gamemode/gamemode.php): failed to open stream: No such file or directory in php/gamemode/gamemode.php on line 1
+
+[10:11:59] [Info] 
+Warning: include(): Failed opening 'php/gamemode/gamemode.php' for inclusion (include_path='.;./php') in php/gamemode/gamemode.php on line 1
+
+[10:11:59] [Info] calling function OnGameModeInit
+
+[10:11:59] [Info] Legacy Network started on port 7777
+[10:12:19] [Info] Loading plugin: samphp
+[10:12:19] [Info] 
+Warning: include(php/gamemode/gamemode.php): failed to open stream: No such file or directory in php/gamemode/gamemode.php on line 1
+
+[10:12:19] [Info] 
+Warning: include(): Failed opening 'php/gamemode/gamemode.php' for inclusion (include_path='.;./php') in php/gamemode/gamemode.php on line 1
+
+[10:12:19] [Info] calling function OnGameModeInit
+
+[10:12:19] [Error] Unable to start legacy network on port 7777. Port in use?
+[10:12:49] [Info] Loading plugin: samphp
+[10:12:49] [Info] 
+Warning: include(php/gamemode/gamemode.php): failed to open stream: No such file or directory in php/gamemode/gamemode.php on line 1
+
+[10:12:49] [Info] 
+Warning: include(): Failed opening 'php/gamemode/gamemode.php' for inclusion (include_path='.;./php') in php/gamemode/gamemode.php on line 1
+
+[10:12:49] [Info] calling function OnGameModeInit
+
+[10:12:49] [Error] Unable to start legacy network on port 7777. Port in use?
+[10:14:36] [Info] Loading plugin: samphp
+[10:14:36] [Info] It works!
+[10:14:36] [Info] Now start creating your own gamemode, without complication!
+[10:14:36] [Info] Just edit the gamemode.php file in the php folder
+[10:14:36] [Info] Or create a new folder inside the php directory, create a gamemode.php file
+[10:14:36] [Info] And change the server.cfg, by adding a line called "samphpmode <gamemode name>
+[10:14:36] [Info] Legacy Network started on port 7777
+[10:16:00] [Info] Loading plugin: samphp
+[10:16:00] [Info] 
+Warning: include(php/gamemode/gamemode.php): failed to open stream: No such file or directory in php/gamemode/gamemode.php on line 1
+
+[10:16:00] [Info] 
+Warning: include(): Failed opening 'php/gamemode/gamemode.php' for inclusion (include_path='.;./php') in php/gamemode/gamemode.php on line 1
+
+[10:16:00] [Info] calling function OnGameModeInit
+
+[10:16:00] [Info] Legacy Network started on port 7777
+[10:16:38] [Info] Loading plugin: samphp
+[10:16:38] [Info] 
+Warning: include(php/gamemode/gamemode.php): failed to open stream: No such file or directory in php/gamemode/gamemode.php on line 1
+
+[10:16:38] [Info] 
+Warning: include(): Failed opening 'php/gamemode/gamemode.php' for inclusion (include_path='.;./php') in php/gamemode/gamemode.php on line 1
+
+[10:16:38] [Info] calling function OnGameModeInit
+
+[10:16:38] [Info] Legacy Network started on port 7777
+[10:16:59] [Info] Loading plugin: samphp
+[10:16:59] [Info] It works!
+[10:16:59] [Info] Now start creating your own gamemode, without complication!
+[10:16:59] [Info] Just edit the gamemode.php file in the php folder
+[10:16:59] [Info] Or create a new folder inside the php directory, create a gamemode.php file
+[10:16:59] [Info] And change the server.cfg, by adding a line called "samphpmode <gamemode name>
+[10:16:59] [Info] Legacy Network started on port 7777
+[10:20:29] [Info] Loading plugin: samphp
+[10:20:29] [Info] 
+Warning: include(php/devmode/gamemode.php): failed to open stream: No such file or directory in php/devmode/gamemode.php on line 1
+
+[10:20:29] [Info] 
+Warning: include(): Failed opening 'php/devmode/gamemode.php' for inclusion (include_path='.;./php') in php/devmode/gamemode.php on line 1
+
+[10:20:29] [Info] calling function OnGameModeInit
+
+[10:20:29] [Info] Legacy Network started on port 7777
+[10:22:02] [Info] Loading plugin: samphp
+[10:22:02] [Info] 
+Warning: include(php/devmode/gamemode.php): failed to open stream: No such file or directory in php/devmode/gamemode.php on line 1
+
+[10:22:02] [Info] 
+Warning: include(): Failed opening 'php/devmode/gamemode.php' for inclusion (include_path='.;./php') in php/devmode/gamemode.php on line 1
+
+[10:22:02] [Info] calling function OnGameModeInit
+
+[10:22:02] [Info] Legacy Network started on port 7777
+[10:22:44] [Info] Loading plugin: samphp
+[10:22:44] [Info] 
+Warning: include(php/devmode/gamemode.php): failed to open stream: No such file or directory in php/devmode/gamemode.php on line 1
+
+[10:22:44] [Info] 
+Warning: include(): Failed opening 'php/devmode/gamemode.php' for inclusion (include_path='.;./php') in php/devmode/gamemode.php on line 1
+
+[10:22:44] [Info] calling function OnGameModeInit
+
+[10:22:44] [Info] Legacy Network started on port 7777
+[10:22:56] [Info] Loading plugin: samphp
+[10:22:56] [Info] 
+Warning: include(php/devmode/gamemode.php): failed to open stream: No such file or directory in php/devmode/gamemode.php on line 1
+
+[10:22:56] [Info] 
+Warning: include(): Failed opening 'php/devmode/gamemode.php' for inclusion (include_path='.;./php') in php/devmode/gamemode.php on line 1
+
+[10:22:56] [Info] calling function OnGameModeInit
+
+[10:22:56] [Info] Legacy Network started on port 7777
+[10:23:27] [Info] Loading plugin: samphp
+[10:23:27] [Info] 
+Warning: include(php/devtest/gamemode.php): failed to open stream: No such file or directory in php/devtest/gamemode.php on line 1
+
+[10:23:27] [Info] 
+Warning: include(): Failed opening 'php/devtest/gamemode.php' for inclusion (include_path='.;./php') in php/devtest/gamemode.php on line 1
+
+[10:23:27] [Info] calling function OnGameModeInit
+
+[10:23:27] [Info] Legacy Network started on port 7777
+[10:24:08] [Info] Loading plugin: samphp
+[10:24:08] [Info] Legacy Network started on port 7777
+[10:25:01] [Info] Loading plugin: samphp
+[10:25:01] [Info] Legacy Network started on port 7777
+[10:25:40] [Info] Loading plugin: samphp
+[10:25:40] [Info] Legacy Network started on port 7777
+[10:25:59] [Info] Loading plugin: samphp
+[10:25:59] [Info] print
+[10:25:59] [Info] Legacy Network started on port 7777
+[10:26:46] [Info] Loading plugin: samphp
+[10:26:46] [Info] Legacy Network started on port 7777
+[10:27:19] [Info] Loading plugin: samphp
+[10:27:19] [Info] Legacy Network started on port 7777
+[10:28:03] [Info] Loading plugin: samphp
+[10:28:03] [Info] Legacy Network started on port 7777
+[10:28:32] [Info] Loading plugin: samphp
+[10:28:32] [Info] Callbacks
+[10:28:32] [Info] Legacy Network started on port 7777
+[10:29:43] [Info] Loading plugin: samphp
+[10:29:43] [Info] Legacy Network started on port 7777
+[10:29:47] [Info] [connection] incoming connection: 79.191.5.238:64029 id: 0
+[10:29:47] [Info] [join] azzy has joined the server (0:79.191.5.238)
+[10:32:48] [Info] Loading plugin: samphp
+[10:32:48] [Info] Legacy Network started on port 7777
+[10:33:20] [Info] Loading plugin: samphp
+[10:33:20] [Info] test
+[10:33:20] [Info] Legacy Network started on port 7777
+[10:36:41] [Info] Loading plugin: samphp
+[10:36:41] [Info] test
+[10:36:41] [Info] Legacy Network started on port 7777
+[10:40:31] [Info] Loading plugin: samphp
+[10:40:31] [Info] 
+Parse error: syntax error, unexpected 'Namespace' (T_NAMESPACE), expecting identifier (T_STRING) in C:\Users\kenny\Desktop\win\php\devtest\autoload.php on line 23
+
+[10:40:31] [Info] Legacy Network started on port 7777
+[10:41:08] [Info] Loading plugin: samphp
+[10:41:08] [Info] 
+Parse error: syntax error, unexpected 'Namespace' (T_NAMESPACE), expecting identifier (T_STRING) in C:\Users\kenny\Desktop\win\php\devtest\autoload.php on line 23
+
+[10:41:08] [Info] Legacy Network started on port 7777
+[10:41:14] [Info] Loading plugin: samphp
+[10:41:14] [Info] 
+Parse error: syntax error, unexpected 'Namespace' (T_NAMESPACE), expecting identifier (T_STRING) or \\ (T_NS_SEPARATOR) or '{' in C:\Users\kenny\Desktop\win\php\devtest\autoload.php on line 23
+
+[10:41:14] [Info] Legacy Network started on port 7777
+[10:43:36] [Info] Loading plugin: samphp
+[10:43:36] [Info] Legacy Network started on port 7777
+[10:44:54] [Info] Loading plugin: samphp
+[10:44:54] [Info] [[Foobar\InexistentClass]]
+[10:44:54] [Info] 
+Fatal error: Class 'Foobar\InexistentClass' not found in C:\Users\kenny\Desktop\win\php\devtest\autoload.php on line 12
+
+[10:44:54] [Info] Legacy Network started on port 7777
+[10:45:05] [Info] Loading plugin: samphp
+[10:45:05] [Info] Legacy Network started on port 7777
+[10:53:32] [Info] Loading plugin: samphp
+[10:53:32] [Info] 
+Warning: require_once(/classes/Callbacks.php): failed to open stream: No such file or directory in C:\Users\kenny\Desktop\win\php\devtest\route.php on line 4
+
+[10:53:32] [Info] 
+Fatal error: require_once(): Failed opening required '/classes/Callbacks.php' (include_path='.;./php;C:\Users\kenny\Desktop\win\php\core/../;C:\Users\kenny\Desktop\win\php\core/') in C:\Users\kenny\Desktop\win\php\devtest\route.php on line 4
+
+[10:53:32] [Info] Legacy Network started on port 7777
+[10:53:45] [Info] Loading plugin: samphp
+[10:53:45] [Info] 
+Warning: require_once(/Callbacks/Callbacks.php): failed to open stream: No such file or directory in C:\Users\kenny\Desktop\win\php\devtest\route.php on line 4
+
+[10:53:45] [Info] 
+Fatal error: require_once(): Failed opening required '/Callbacks/Callbacks.php' (include_path='.;./php;C:\Users\kenny\Desktop\win\php\core/../;C:\Users\kenny\Desktop\win\php\core/') in C:\Users\kenny\Desktop\win\php\devtest\route.php on line 4
+
+[10:53:45] [Info] Legacy Network started on port 7777
+[10:54:14] [Info] Loading plugin: samphp
+[10:54:14] [Info] testing
+[10:54:14] [Info] 
+Fatal error: Class 'PlayerConnect' not found in C:\Users\kenny\Desktop\win\php\devtest\gamemode.php on line 7
+
+[10:54:14] [Info] Legacy Network started on port 7777
+[10:56:53] [Info] Loading plugin: samphp
+[10:56:53] [Info] Legacy Network started on port 7777
+[10:57:40] [Info] [connection] incoming connection: 79.191.5.238:57737 id: 0
+[10:57:40] [Info] [join] azzy has joined the server (0:79.191.5.238)
+[10:59:16] [Info] [part] azzy has left the server (0:1)
+[10:59:51] [Info] Loading plugin: samphp
+[10:59:51] [Error] Unable to start legacy network on port 7777. Port in use?
+[11:00:01] [Info] Loading plugin: samphp
+[11:00:01] [Info] Legacy Network started on port 7777
+[11:00:21] [Info] [connection] incoming connection: 79.191.5.238:58879 id: 0
+[11:00:21] [Info] [join] azzy has joined the server (0:79.191.5.238)
+[11:35:11] [Info] Loading plugin: samphp
+[11:35:11] [Info] Legacy Network started on port 7777
+[11:38:41] [Info] Loading plugin: samphp
+[11:38:41] [Info] Legacy Network started on port 7777
+[11:40:14] [Info] Loading plugin: samphp
+[11:40:14] [Info] Legacy Network started on port 7777
+[11:40:27] [Info] Loading plugin: samphp
+[11:40:27] [Info] testing
+[11:40:27] [Info] Legacy Network started on port 7777
+[11:41:25] [Info] [connection] incoming connection: 79.191.5.238:63597 id: 0
+[11:41:25] [Info] [join] azzy has joined the server (0:79.191.5.238)
+[11:42:17] [Info] Loading plugin: samphp
+[11:42:17] [Info] testing
+[11:42:17] [Info] Legacy Network started on port 7777
+[11:46:57] [Info] Loading plugin: samphp
+[11:46:57] [Info] testing
+[11:46:57] [Info] C:\Users\kenny\Desktop\win\php\devtest\Callbacks\PlayerConnect.php
+[11:46:57] [Info] Legacy Network started on port 7777
+[11:47:36] [Info] Loading plugin: samphp
+[11:47:37] [Info] Array
+[11:47:37] [Info] testing
+[11:47:37] [Info] Legacy Network started on port 7777
+[11:48:09] [Info] Loading plugin: samphp
+[11:48:09] [Info] PlayerConnectphp
+[11:48:09] [Info] testing
+[11:48:09] [Info] Legacy Network started on port 7777
+[11:48:36] [Info] Loading plugin: samphp
+[11:48:36] [Info] PlayerConnect.php
+[11:48:36] [Info] testing
+[11:48:36] [Info] Legacy Network started on port 7777
+[11:49:46] [Info] Loading plugin: samphp
+[11:49:46] [Info] OnGameModeInit.php
+[11:49:46] [Info] PlayerConnect.php
+[11:49:46] [Info] Legacy Network started on port 7777
+[11:51:42] [Info] Loading plugin: samphp
+[11:51:42] [Info] OnGameModeExit.php
+[11:51:42] [Info] OnGameModeInit.php
+[11:51:42] [Info] PlayerConnect.php
+[11:51:42] [Info] Legacy Network started on port 7777
+[11:51:48] [Info] wylaczanie
+[11:53:21] [Info] Loading plugin: samphp
+[11:53:21] [Info] GameModeExit.php
+[11:53:21] [Info] GameModeInit.php
+[11:53:21] [Info] PlayerConnect.php
+[11:53:21] [Info] Legacy Network started on port 7777
+[11:54:18] [Info] Loading plugin: samphp
+[11:54:18] [Info] GameModeExit.php
+[11:54:18] [Info] GameModeInit.php
+[11:54:18] [Info] PlayerConnect.php
+[11:54:18] [Info] enum.php
+[11:54:18] [Info] 
+Parse error: syntax error, unexpected 'Suit' (T_STRING) in C:\Users\kenny\Desktop\win\php\devtest\Structures\enum.php on line 2
+
+[11:54:18] [Info] Legacy Network started on port 7777
+[11:57:30] [Info] Loading plugin: samphp
+[11:57:30] [Info] GameModeExit.php
+[11:57:30] [Info] GameModeInit.php
+[11:57:30] [Info] PlayerConnect.php
+[11:57:30] [Info] enum.php
+[11:57:30] [Info] 
+Parse error: syntax error, unexpected 'Limit' (T_STRING) in C:\Users\kenny\Desktop\win\php\devtest\Structures\enum.php on line 2
+
+[11:57:30] [Info] Legacy Network started on port 7777
+[11:58:00] [Info] Loading plugin: samphp
+[11:58:00] [Info] GameModeExit.php
+[11:58:00] [Info] GameModeInit.php
+[11:58:00] [Info] PlayerConnect.php
+[11:58:00] [Info] enum.php
+[11:58:00] [Info] Legacy Network started on port 7777
+[12:03:50] [Info] [connection] incoming connection: 79.191.5.238:53091 id: 0
+[12:05:42] [Info] [join] azzy has joined the server (0:79.191.5.238)
+[12:05:42] [Info] [part] azzy has left the server (0:0)
+[12:05:42] [Info] [connection] incoming connection: 79.191.5.238:60298 id: 0
+[12:05:42] [Info] [join] azzy has joined the server (0:79.191.5.238)
