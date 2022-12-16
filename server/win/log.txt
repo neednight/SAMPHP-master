@@ -1,0 +1,2 @@
+[2022-12-16T07:56:53+0100] [Info] Legacy Network started on port 7777
+[2022-12-16T07:56:58+0100] [Info] Failed to announce legacy network to open.mp list
