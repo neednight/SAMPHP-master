@@ -1,7 +1,7 @@
 <?php
 require 'core/bootstrap.php';
 
-require 'grandlarc/gamemode.php';
+require 'devtest/gamemode.php';
 
 Command::Register('/memory', function($player) {
 	$player->sendClientMessage(0xFFFFFFFF, "Memory Usage PHP: ".(memory_get_usage(false) / 1024)."KB (".(memory_get_usage(true) / 1024)."KB)");
